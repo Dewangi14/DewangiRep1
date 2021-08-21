@@ -1,0 +1,23 @@
+.firstbox {
+    border:black 2px solid;
+}
+#internal_ul{
+  background-color: blueviolet;
+}
+
+ol {
+  background-color: orange;
+}
+
+h2 {
+  background-color: orange;
+}
+p[name="first_p_tag"] {
+  background-color: pink;
+}
+body {
+    background-color: green;
+}
+img {
+    border-radius:5%;
+}
